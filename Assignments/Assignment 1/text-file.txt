@@ -1,0 +1,1 @@
+Sentences like ‘Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo‘ which demonstrate lexical ambiguity are ones I’d expect text parsers to have difficulty with. Phrases involving colloquialisms from the ROI’d also be tough to intepret like ‘what’s the craic’, ‘I’m absolutely stuffed’, or ‘thats gas’; all are common Irish expressions.

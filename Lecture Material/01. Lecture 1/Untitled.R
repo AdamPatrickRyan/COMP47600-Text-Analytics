@@ -1,0 +1,5 @@
+print('Hi')
+data(cars)
+attach(cars)
+print(mean(spend))
+print('Done')
